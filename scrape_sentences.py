@@ -1,4 +1,4 @@
-# Save this as scrape_sentences.py or paste into a Jupyter notebook cell
+#this as can be save scrape_sentences.py or paste into a Jupyter notebook cell
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
